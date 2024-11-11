@@ -24,5 +24,5 @@ Aspiring Software Engineer
 
 ![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrabhakarRavichandran&theme=dark&show_icons=true&&hide=issues,contribs)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Prabhakar_R?ext=contest&theme=dark)(https://leetcode.com/Prabhakar_R/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Prabhakar_R?ext=contest&theme=dark)
 
