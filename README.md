@@ -10,12 +10,14 @@
 <a href="https://github.com/PrabhakarRavichandran"><img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="mailto:raviprabahar2006@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
+```text
 <p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=PrabhakarRavichandran&label=PROFILE%20VIEWS&color=2563eb&style=for-the-badge"
     alt="Profile views"
   />
 </p>
+```
 
 </div>
 
