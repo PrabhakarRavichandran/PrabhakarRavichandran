@@ -57,7 +57,7 @@ Problem Solving
 <img src="https://img.shields.io/badge/Local%20LLMs-Ollama-334155?style=flat-square" alt="Ollama local LLMs" />
 </p>
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table>
 <tr>
@@ -104,12 +104,12 @@ A responsive business website focused on service presentation, usability, and se
 </tr>
 </table>
 
-## 💼 Experience
+##  Experience
 
 ### Intel Unnati Industrial Training Program · 2025
 Collaborated on a team project involving machine learning for networking, Software-Defined Networking, and DDoS attack detection and mitigation.
 
-## 📊 GitHub Overview
+##  GitHub Overview
 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=PrabhakarRavichandran&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=020617&title_color=60a5fa&icon_color=22d3ee&text_color=cbd5e1" alt="GitHub statistics" />
